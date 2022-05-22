@@ -1,2 +1,3 @@
 Hello world
 Hello from Australia
+Hello from Kazakhstan
